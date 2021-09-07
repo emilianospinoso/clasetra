@@ -1,0 +1,44 @@
+.padre{
+    border:1px solid black;
+    width: 50vw;
+    height: 50vh;
+    margin: auto;
+    position: relative;
+}
+
+.relative{
+    background-color: chocolate;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+.absolute{
+    background-color: orange;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.fixed{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    top: 200px;
+}
+
+.sticky{
+    background-color: violet;
+    width: 150px;
+    height: 150px;
+    position: sticky;
+    top: 20px;
+}
+
+/*
+de aca pa abajo...  celulares*/

@@ -1,0 +1,21 @@
+html{
+   font-size: 10px;
+}
+
+main{
+    font-size: 2em;
+}
+section{
+    font-size: 2rem;
+}
+.em{
+    font-size: 2em;
+}
+
+.rem{ 
+    font-size: 2rem;
+}
+
+img{
+    width: 50vw;
+}
