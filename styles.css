@@ -2,8 +2,8 @@
     border:1px solid black;
     width: 50vw;
     height: 50vh;
-    margin: auto;
-    position: relative;
+    margin: auto;/*hago unos cambios para mergear*/
+    position: relative;/*los cambios que estoy haciendo*/
 }
 
 .relative{
